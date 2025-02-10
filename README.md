@@ -1,2 +1,2 @@
 # Master-s-degree
-rojects on video compression, machine learning, and efficient algorithm development.
+Projects on video compression, machine learning, and efficient algorithm development.
